@@ -1,12 +1,12 @@
-# Title
+## Title
 
 python のクラス学習
 
-# What does this code do?
+## What does this code do?
 
 各種クラスの使い方についてまとめました。
 
-# Detail
+## Detail
 
 constructor.py : コンストラクタの使い方
 getter_setter1.py : getter および setter の使い方(その１)
